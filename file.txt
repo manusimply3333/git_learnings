@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 This change has been dine in master`:wq!`
-=======
 I've made changes in develop branch
 
->>>>>>> develop
 . Ive edited itThis is second changed file
