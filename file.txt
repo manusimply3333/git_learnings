@@ -1,1 +1,2 @@
+This change has been dine in master`:wq!`
 . Ive edited itThis is second changed file
